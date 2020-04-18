@@ -1,38 +1,38 @@
 [
-    {
-      "flight_number": 1,
-      "mission_name": "Falcon",
-      "upcoming": false,
-      "launch_year": "2006",
-      "launch_window": 0,
-      "rocket": {
-         "rocket_id": "falcon0001",
-         "rocket_name": "Falcon 1",
-       },
-      "details": "Engine failure at 33 seconds and loss of vehicle",
-      "static_fire_date_utc": "2006-03-17T00:00:00.000Z",
-      "static_fire_date_unix": 1142553600,
-      "timeline": {
-         "webcast_liftoff": 54
-      },
-      "crew": null
-   },
-   {
-      "flight_number": 2,
-      "mission_name": "Browsetab",
-      "upcoming": false,
-      "launch_year": "2008",
-      "launch_window": 0,
-      "rocket": {
-         "rocket_id": "falcon0001",
-         "rocket_name": "Falcon 1",
-       },
-      "details": "Engine failure at 33 seconds and loss of vehicle",
-      "static_fire_date_utc": "2006-03-17T00:00:00.000Z",
-      "static_fire_date_unix": 1142553600,
-      "timeline": {
-         "webcast_liftoff": 86
-      },
-      "crew": null
-   }
+  {
+    "flight_number": 1,
+    "mission_name": "Falcon",
+    "upcoming": false,
+    "launch_year": "2006",
+    "launch_window": 0,
+    "rocket": {
+      "rocket_id": "falcon0001",
+      "rocket_name": "Falcon 1"
+    },
+    "details": "Engine failure at 33 seconds and loss of vehicle",
+    "static_fire_date_utc": "2006-03-17T00:00:00.000Z",
+    "static_fire_date_unix": 1142553600,
+    "timeline": {
+      "webcast_liftoff": 54
+    },
+    "crew": null
+  },
+  {
+    "flight_number": 2,
+    "mission_name": "Browsetab",
+    "upcoming": false,
+    "launch_year": "2008",
+    "launch_window": 0,
+    "rocket": {
+      "rocket_id": "falcon0001",
+      "rocket_name": "Falcon 1"
+    },
+    "details": "Engine failure at 33 seconds and loss of vehicle",
+    "static_fire_date_utc": "2006-03-17T00:00:00.000Z",
+    "static_fire_date_unix": 1142553600,
+    "timeline": {
+      "webcast_liftoff": 86
+    },
+    "crew": null
+  }
 ]
