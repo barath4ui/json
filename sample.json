@@ -1,17 +1,1 @@
-[
-  {
-    "Friend_Name": "Sriram",
-    "Friend_Location": "Chennai",
-    "Friend_Mobile" : 9994226829
-  },
-  {
-    "Friend_Name": "Sivaguru",
-    "Friend_Location": "Kumbakonam",
-    "Friend_Mobile" : 9790287690
-  },
-  {
-    "Friend_Name": "Manimaran",
-    "Friend_Location": "Karupur",
-    "Friend_Mobile" : 9791750661
-  }
-]
+[{"Friend_Name":"Sriram","Friend_Location":"Chennai","Friend_Mobile":9994226829},{"Friend_Name":"Sivaguru","Friend_Location":"Kumbakonam","Friend_Mobile":9790287690},{"Friend_Name":"Manimaran","Friend_Location":"Karupur","Friend_Mobile":9791750661},{"Friend_Name":"barath","Friend_Location":"chennai","Friend_Mobile":"8667704039"},{"Friend_Name":"sdf","Friend_Location":"dsffsf","Friend_Mobile":"sdfsf"},{"Friend_Name":"vasanth","Friend_Location":"chennai","Friend_Mobile":"889978656"},{"Friend_Name":"Ashokkumar","Friend_Location":"Chennai","Friend_Mobile":"782792892"},{"Friend_Name":"Manigandan","Friend_Location":"Salem","Friend_Mobile":"982928202"},{"Friend_Name":"Test","Friend_Location":"test","Friend_Mobile":"K"}]
