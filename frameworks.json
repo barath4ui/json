@@ -1,0 +1,19 @@
+[
+    {
+      "name": "Angular",
+      "company": "Google"
+    },
+    {
+      "name": "Vue",
+      "company" : "Vue18"
+    },
+    {
+      "name": "React",
+      "company" : "Facebook"
+    },
+    {
+      "name" : "Default",
+      "company" : "Js"
+    }
+
+]
